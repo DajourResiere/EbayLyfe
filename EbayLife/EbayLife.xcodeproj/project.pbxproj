@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					103D21391F1968D700D3A714 = {
 						CreatedOnToolsVersion = 8.3.2;
+						DevelopmentTeam = SWL6UKQSXR;
 						ProvisioningStyle = Automatic;
 					};
 					103D214D1F1968D700D3A714 = {
@@ -414,6 +415,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = SWL6UKQSXR;
 				INFOPLIST_FILE = EbayLife/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.amyshen.EbayLife;
@@ -426,6 +428,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = SWL6UKQSXR;
 				INFOPLIST_FILE = EbayLife/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.amyshen.EbayLife;
@@ -507,6 +510,7 @@
 				103D21641F1968D700D3A714 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		103D21651F1968D700D3A714 /* Build configuration list for PBXNativeTarget "EbayLifeTests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +519,7 @@
 				103D21671F1968D700D3A714 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		103D21681F1968D700D3A714 /* Build configuration list for PBXNativeTarget "EbayLifeUITests" */ = {
 			isa = XCConfigurationList;
@@ -523,6 +528,7 @@
 				103D216A1F1968D700D3A714 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

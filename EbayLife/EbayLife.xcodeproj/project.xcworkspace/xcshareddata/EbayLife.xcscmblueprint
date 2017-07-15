@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4C25EE8C2476CF9ABD69EFB091B08D70A4229FE0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "4C25EE8C2476CF9ABD69EFB091B08D70A4229FE0" : 9223372036854775807,
+    "A5D64F93BBAA04FB74B74E34920CC02467460AFC" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "919B5940-3112-47E7-874F-5ADDF7452EB8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "4C25EE8C2476CF9ABD69EFB091B08D70A4229FE0" : "EbayLyfe\/",
+    "A5D64F93BBAA04FB74B74E34920CC02467460AFC" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "EbayLife",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "EbayLife\/EbayLife.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/shenamy\/EbayLyfe.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4C25EE8C2476CF9ABD69EFB091B08D70A4229FE0"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/shenamy\/EbayLyfe.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A5D64F93BBAA04FB74B74E34920CC02467460AFC"
+    }
+  ]
+}
